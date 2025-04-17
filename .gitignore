@@ -42,3 +42,5 @@ notebooks/.ipynb_checkpoints/
 # Local development
 .env
 .env.local 
+
+.DS_Store
